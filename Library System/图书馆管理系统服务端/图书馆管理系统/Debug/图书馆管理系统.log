@@ -1,0 +1,19 @@
+﻿  Book.cpp
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\book.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\book.cpp(150): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\book.cpp(197): warning C4018: “<”: 有符号/无符号不匹配
+  Get_path.cpp
+  Main.cpp
+  People.cpp
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\people.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\people.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\people.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\people.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+  Record.cpp
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\record.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+  Server.cpp
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\server.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\server.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\图书馆管理系统\图书馆管理系统\server.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  图书馆管理系统.vcxproj -> C:\Users\asus\source\repos\图书馆管理系统\Debug\图书馆管理系统.exe
