@@ -1,0 +1,281 @@
+2019.03.26 18:34:55 Backup ./script/log/cpu.log
+2019.03.26 18:34:59 Backup ./script/log/mem.log
+2019.03.26 18:35:51 Send 6992 Files To Master
+2019.03.26 18:40:16 Send 1333 Files To Master
+2019.03.26 18:40:18 Send 2117 Files To Master
+2019.03.26 18:40:22 Backup ./script/log/cpu.log
+2019.03.26 19:00:58 Send 1164 Files To Master
+2019.03.26 19:50:38 Backup ./script/log/cpu.log
+2019.03.26 19:51:49 Send 1192 Files To Master
+2019.03.28 15:27:56 Backup ./script/log/cpu.log
+2019.03.28 15:35:09 Send 1346 Files To Master
+2019.03.28 17:01:36 Backup ./script/log/cpu.log
+2019.03.28 17:06:35 Send 1316 Files To Master
+2019.03.28 17:10:28 Backup ./script/log/cpu.log
+2019.03.28 17:10:56 Backup ./script/log/cpu.log
+2019.03.28 17:12:52 Send 1370 Files To Master
+2019.03.28 17:16:49 Backup ./script/log/mem.log
+2019.03.28 17:17:15 Send 1486 Files To Master
+2019.03.28 17:17:18 Send 1035 Files To Master
+2019.03.28 18:13:00 Backup ./script/log/cpu.log
+2019.03.28 18:13:34 Backup ./script/log/cpu.log
+2019.03.28 18:49:03 Send 1483 Files To Master
+2019.03.28 18:49:05 Send 1936 Files To Master
+2019.03.28 18:54:42 Backup ./script/log/cpu.log
+2019.03.28 19:16:50 Backup ./script/log/cpu.log
+2019.03.28 19:19:57 Backup ./script/log/cpu.log
+2019.03.28 19:20:13 Send 1771 Files To Master
+2019.03.28 19:20:15 Send 1542 Files To Master
+2019.03.28 19:20:17 Send 1485 Files To Master
+2019.03.28 19:21:21 Backup ./script/log/cpu.log
+2019.03.28 19:21:54 Backup ./script/log/cpu.log
+2019.03.28 19:22:23 Backup ./script/log/cpu.log
+2019.03.28 19:24:04 Send 1366 Files To Master
+2019.03.28 19:24:06 Send 1933 Files To Master
+2019.03.28 19:24:08 Send 1477 Files To Master
+2019.03.28 19:31:15 Backup ./script/log/cpu.log
+2019.03.28 19:32:01 Send 1141 Files To Master
+2019.03.28 19:33:00 Backup ./script/log/cpu.log
+2019.03.28 19:33:29 Backup ./script/log/cpu.log
+2019.03.28 19:33:57 Backup ./script/log/cpu.log
+2019.03.28 19:34:25 Backup ./script/log/cpu.log
+2019.03.28 19:34:53 Backup ./script/log/cpu.log
+2019.03.28 19:35:21 Backup ./script/log/cpu.log
+2019.03.28 19:36:55 Backup ./script/log/cpu.log
+2019.03.28 19:38:34 Backup ./script/log/cpu.log
+2019.03.28 19:39:02 Backup ./script/log/cpu.log
+2019.03.28 19:39:30 Backup ./script/log/cpu.log
+2019.03.28 19:39:58 Backup ./script/log/cpu.log
+2019.03.28 19:40:26 Backup ./script/log/cpu.log
+2019.03.28 19:40:54 Backup ./script/log/cpu.log
+2019.03.28 19:42:13 Backup ./script/log/mem.log
+2019.03.28 19:44:23 Backup ./script/log/cpu.log
+2019.03.28 19:44:51 Send 2224 Files To Master
+2019.03.28 19:44:53 Send 1084 Files To Master
+2019.03.28 19:44:55 Send 1534 Files To Master
+2019.03.28 19:44:57 Send 1654 Files To Master
+2019.03.28 19:44:59 Send 1938 Files To Master
+2019.03.28 19:45:01 Send 1939 Files To Master
+2019.03.28 19:45:03 Send 1081 Files To Master
+2019.03.28 19:45:05 Send 1653 Files To Master
+2019.03.28 19:45:07 Send 1545 Files To Master
+2019.03.28 19:45:09 Send 1367 Files To Master
+2019.03.28 19:45:11 Send 1369 Files To Master
+2019.03.28 19:45:13 Send 2224 Files To Master
+2019.03.28 19:45:15 Send 1425 Files To Master
+2019.03.28 19:45:17 Send 1542 Files To Master
+2019.03.28 19:45:22 Send 1035 Files To Master
+2019.03.28 19:45:22 Backup ./script/log/cpu.log
+2019.03.28 19:45:50 Backup ./script/log/cpu.log
+2019.03.28 19:46:51 Send 1371 Files To Master
+2019.03.28 19:46:53 Send 1884 Files To Master
+2019.03.28 19:52:33 Backup ./script/log/disk.log
+2019.03.28 19:52:36 Backup ./script/log/sys.log
+2019.03.28 19:52:38 Backup ./script/log/user.log
+2019.03.28 19:53:33 Backup ./script/log/disk.log
+2019.03.28 19:53:39 Backup ./script/log/user.log
+2019.03.28 19:56:34 Backup ./script/log/disk.log
+2019.03.28 19:56:35 Backup ./script/log/mem.log
+2019.03.28 20:19:57 Backup ./script/log/cpu.log
+2019.03.28 20:20:25 Backup ./script/log/cpu.log
+2019.03.28 20:20:53 Backup ./script/log/cpu.log
+2019.03.28 20:21:21 Backup ./script/log/cpu.log
+2019.03.28 20:21:49 Backup ./script/log/cpu.log
+2019.03.28 20:21:52 Send 1939 Files To Master
+2019.03.28 20:21:54 Send 1654 Files To Master
+2019.03.28 20:21:56 Send 1771 Files To Master
+2019.03.28 20:21:58 Send 1369 Files To Master
+2019.03.28 20:22:00 Send 1940 Files To Master
+2019.03.28 20:23:11 Send 1049 Files To Master
+2019.03.28 20:23:16 Send 1280 Files To Master
+2019.03.28 20:23:18 Send 1664 Files To Master
+2019.03.28 20:23:20 Send 1664 Files To Master
+2019.03.28 20:23:28 Send 1813 Files To Master
+2019.03.28 20:23:31 Send 3003 Files To Master
+2019.03.28 20:23:33 Send 2310 Files To Master
+2019.03.28 20:23:40 Backup ./script/log/cpu.log
+2019.03.28 20:24:09 Backup ./script/log/cpu.log
+2019.03.28 20:24:37 Backup ./script/log/cpu.log
+2019.03.28 20:25:05 Backup ./script/log/cpu.log
+2019.03.28 20:25:33 Backup ./script/log/cpu.log
+2019.03.28 20:26:01 Backup ./script/log/cpu.log
+2019.03.28 20:26:29 Backup ./script/log/cpu.log
+2019.03.28 20:26:57 Backup ./script/log/cpu.log
+2019.03.28 20:27:25 Backup ./script/log/cpu.log
+2019.03.28 20:27:53 Backup ./script/log/cpu.log
+2019.03.28 20:28:21 Backup ./script/log/cpu.log
+2019.03.28 20:28:49 Backup ./script/log/cpu.log
+2019.03.28 20:29:16 Backup ./script/log/cpu.log
+2019.03.28 20:29:41 Backup ./script/log/cpu.log
+2019.03.30 09:11:49 Backup ./script/log/cpu.log
+2019.03.30 09:12:20 Send 4108 Files To Master
+2019.03.30 09:12:22 Send 2794 Files To Master
+2019.03.30 09:12:24 Send 3365 Files To Master
+2019.03.30 09:12:26 Send 1654 Files To Master
+2019.03.30 09:12:28 Send 2224 Files To Master
+2019.03.30 09:12:30 Send 2509 Files To Master
+2019.03.30 09:12:32 Send 1369 Files To Master
+2019.03.30 09:12:34 Send 3936 Files To Master
+2019.03.30 09:12:36 Send 1313 Files To Master
+2019.03.30 09:12:38 Send 1939 Files To Master
+2019.03.30 09:12:40 Send 1084 Files To Master
+2019.03.30 09:13:18 Send 4108 Files To Master
+2019.03.30 09:13:20 Send 3650 Files To Master
+2019.03.30 09:13:22 Send 1203 Files To Master
+2019.03.30 09:13:24 Send 3079 Files To Master
+2019.03.30 09:13:25 Backup ./script/log/mem.log
+2019.03.30 09:21:19 Send 1035 Files To Master
+2019.03.30 09:28:02 Backup ./script/log/cpu.log
+2019.03.30 09:34:59 Send 1224 Files To Master
+2019.03.30 10:47:13 Backup ./script/log/cpu.log
+2019.03.30 10:52:39 Send 1063 Files To Master
+2019.03.30 10:53:39 Backup ./script/log/cpu.log
+2019.03.30 10:58:44 Send 1469 Files To Master
+2019.03.30 14:06:55 Backup ./script/log/cpu.log
+2019.03.30 14:08:59 Send 1145 Files To Master
+2019.03.30 14:10:05 Backup ./script/log/cpu.log
+2019.03.30 14:10:33 Backup ./script/log/cpu.log
+2019.03.30 14:11:01 Backup ./script/log/cpu.log
+2019.03.30 14:11:29 Backup ./script/log/cpu.log
+2019.03.30 14:11:57 Backup ./script/log/cpu.log
+2019.03.30 14:13:32 Send 1542 Files To Master
+2019.03.30 14:13:34 Send 1939 Files To Master
+2019.03.30 14:13:36 Send 1369 Files To Master
+2019.03.30 14:13:38 Send 1084 Files To Master
+2019.03.30 14:13:40 Send 1654 Files To Master
+2019.03.30 18:25:14 Backup ./script/log/cpu.log
+2019.03.30 18:27:45 Send 1201 Files To Master
+2019.03.30 18:27:47 Send 1084 Files To Master
+2019.03.30 18:27:49 Send 1201 Files To Master
+2019.03.30 18:27:52 Send 1201 Files To Master
+2019.03.30 18:27:54 Send 1313 Files To Master
+2019.03.30 18:27:56 Send 1542 Files To Master
+2019.03.30 18:27:58 Send 1084 Files To Master
+2019.03.30 18:28:00 Send 1098 Files To Master
+2019.03.30 20:16:08 Backup ./script/log/cpu.log
+2019.03.30 20:16:29 Send 1029 Files To Master
+2019.03.30 20:33:29 Send 1098 Files To Master
+2019.03.30 20:34:53 Backup ./script/log/cpu.log
+2019.03.31 09:13:20 Send 1542 Files To Master
+2019.03.31 09:14:58 Backup ./script/log/cpu.log
+2019.03.31 09:16:57 Backup ./script/log/cpu.log
+2019.03.31 14:22:44 Backup ./script/log/cpu.log
+2019.03.31 14:23:18 Send 1121 Files To Master
+2019.03.31 14:23:20 Send 1104 Files To Master
+2019.03.31 14:23:22 Send 1158 Files To Master
+2019.03.31 15:18:05 Backup ./script/log/cpu.log
+2019.03.31 15:27:03 Send 1542 Files To Master
+2019.03.31 15:36:59 Backup 0.12 0.07 0.02 0.98 50.46°C note
+
+2019.03.31 15:50:39 Backup ./script/log/cpu.log
+2019.03.31 15:52:09 Send 1427 Files To Master
+2019.03.31 15:53:51 Backup ./script/log/cpu.log
+2019.03.31 15:54:19 Backup ./script/log/cpu.log
+2019.03.31 15:54:31 Send 1370 Files To Master
+2019.03.31 15:54:33 Send 1883 Files To Master
+2019.03.31 16:40:23 Backup ./script/log/user.log
+2019.03.31 16:40:28 Send 1252 Files To Master
+2019.03.31 16:45:21 Backup ./script/log/disk.log
+2019.03.31 16:45:32 Send 1134 Files To Master
+2019.03.31 16:46:26 Backup ./script/log/user.log
+2019.03.31 16:46:30 Send 3130 Files To Master
+2019.03.31 16:48:41 Backup ./script/log/cpu.log
+2019.03.31 16:48:42 Send 1481 Files To Master
+2019.03.31 17:50:57 Backup ./script/log/cpu.log
+2019.03.31 17:51:04 Send 1083 Files To Master
+2019.03.31 17:51:25 Backup ./script/log/cpu.log
+2019.03.31 17:51:32 Send 1368 Files To Master
+2019.03.31 17:57:26 Backup ./script/log/cpu.log
+2019.03.31 17:57:27 Send 1082 Files To Master
+2019.03.31 17:57:55 Backup ./script/log/cpu.log
+2019.03.31 17:57:58 Send 1367 Files To Master
+2019.03.31 17:58:23 Backup ./script/log/cpu.log
+2019.03.31 17:58:30 Send 1652 Files To Master
+2019.03.31 17:58:51 Backup ./script/log/cpu.log
+2019.03.31 17:59:07 Send 1937 Files To Master
+2019.03.31 18:00:43 Backup ./script/log/user.log
+2019.03.31 18:00:44 Send 1680 Files To Master
+2019.03.31 18:04:40 Backup ./script/log/disk.log
+2019.03.31 18:04:41 Backup ./script/log/sys.log
+2019.03.31 18:04:44 Send 1134 Files To Master
+2019.03.31 18:04:45 Backup ./script/log/user.log
+2019.03.31 18:04:47 Send 1324 Files To Master
+2019.03.31 18:04:49 Send 2996 Files To Master
+2019.03.31 18:12:35 Backup ./script/log/user.log
+2019.03.31 18:12:49 Send 1232 Files To Master
+2019.03.31 18:27:20 Backup ./script/log/cpu.log
+2019.03.31 18:27:27 Send 1076 Files To Master
+2019.03.31 18:29:36 Backup ./script/log/user.log
+2019.03.31 18:30:06 Send 1232 Files To Master
+2019.03.31 18:31:18 Backup ./script/log/cpu.log
+2019.03.31 18:31:46 Send 1313 Files To Master
+2019.03.31 18:31:46 Backup ./script/log/cpu.log
+2019.03.31 18:31:58 Send 1085 Files To Master
+2019.03.31 18:35:54 Backup ./script/log/user.log
+2019.03.31 18:36:48 Send 1232 Files To Master
+2019.03.31 18:41:39 Backup ./script/log/user.log
+2019.03.31 18:41:51 Send 1540 Files To Master
+2019.03.31 18:45:37 Backup ./script/log/disk.log
+2019.03.31 18:45:39 Send 1134 Files To Master
+2019.03.31 18:45:41 Backup ./script/log/user.log
+2019.03.31 18:45:42 Send 2772 Files To Master
+2019.03.31 18:50:37 Backup ./script/log/disk.log
+2019.03.31 18:50:47 Send 1764 Files To Master
+2019.03.31 18:56:37 Backup ./script/log/disk.log
+2019.03.31 18:56:39 Send 2520 Files To Master
+2019.03.31 19:10:34 Backup ./script/log/pro.log
+2019.03.31 19:10:36 Send 1147 Files To Master
+2019.03.31 19:11:37 Backup ./script/log/disk.log
+2019.03.31 19:11:40 Send 4158 Files To Master
+2019.03.31 19:12:35 Backup ./script/log/pro.log
+2019.03.31 19:12:37 Send 1147 Files To Master
+2019.03.31 19:15:05 Backup ./script/log/pro.log
+2019.03.31 19:15:13 Send 1147 Files To Master
+2019.03.31 19:16:37 Backup ./script/log/disk.log
+2019.03.31 19:16:38 Send 4158 Files To Master
+2019.03.31 19:18:06 Backup ./script/log/pro.log
+2019.03.31 19:18:11 Send 1147 Files To Master
+2019.03.31 19:20:07 Backup ./script/log/pro.log
+2019.03.31 19:20:13 Send 1147 Files To Master
+2019.03.31 19:21:38 Backup ./script/log/disk.log
+2019.03.31 19:21:46 Send 4158 Files To Master
+2019.03.31 19:22:38 Backup ./script/log/pro.log
+2019.03.31 19:22:45 Send 1147 Files To Master
+2019.04.02 19:48:04 Backup ./script/log/cpu.log
+2019.04.02 19:48:32 Backup ./script/log/cpu.log
+2019.04.02 19:49:00 Backup ./script/log/cpu.log
+2019.04.02 19:49:28 Backup ./script/log/cpu.log
+2019.04.02 19:49:56 Backup ./script/log/cpu.log
+2019.04.02 19:50:24 Backup ./script/log/cpu.log
+2019.04.02 19:50:52 Backup ./script/log/cpu.log
+2019.04.02 19:51:20 Backup ./script/log/cpu.log
+2019.04.02 19:51:48 Backup ./script/log/cpu.log
+2019.04.02 19:52:16 Backup ./script/log/cpu.log
+2019.04.02 19:52:44 Backup ./script/log/cpu.log
+2019.04.02 19:53:11 Backup ./script/log/cpu.log
+2019.04.02 19:53:36 Backup ./script/log/cpu.log
+2019.04.02 19:54:01 Backup ./script/log/cpu.log
+2019.04.02 19:54:26 Backup ./script/log/cpu.log
+2019.04.02 19:54:51 Backup ./script/log/cpu.log
+2019.04.02 19:55:17 Backup ./script/log/disk.log
+2019.04.02 19:55:18 Backup ./script/log/sys.log
+2019.04.02 19:55:21 Backup ./script/log/cpu.log
+2019.04.02 19:55:22 Backup ./script/log/user.log
+2019.04.02 19:55:41 Backup ./script/log/cpu.log
+2019.04.02 19:56:06 Backup ./script/log/cpu.log
+2019.04.02 20:04:26 Send 4106 Files To Master
+2019.04.02 20:04:28 Send 4106 Files To Master
+2019.04.02 20:04:30 Send 4106 Files To Master
+2019.04.02 20:04:32 Send 1883 Files To Master
+2019.04.02 20:04:34 Send 1654 Files To Master
+2019.04.02 20:04:36 Send 2224 Files To Master
+2019.04.02 20:05:15 Send 1369 Files To Master
+2019.04.02 20:05:17 Send 4106 Files To Master
+2019.04.02 20:05:19 Send 1939 Files To Master
+2019.04.02 20:05:21 Send 3650 Files To Master
+2019.04.02 20:05:23 Send 3935 Files To Master
+2019.04.02 20:05:52 Send 3365 Files To Master
+2019.04.02 20:05:54 Send 4106 Files To Master
+2019.04.02 20:05:56 Send 2509 Files To Master
+2019.04.02 20:12:11 Backup ./script/log/mem.log
+2019.04.04 18:41:50 Backup ./script/log/cpu.log
